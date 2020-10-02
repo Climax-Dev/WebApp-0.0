@@ -11,4 +11,4 @@ WebApp Navigator use PHP, CSS, JavaScript, HTML.
 Discord: https://discord.gg/TCpeTp3
 Website: www.cristalium.xyz
 ------------------------------------------------------------------------------------------
-⁮© 2020 Cristalium Studio - All rights reserved.
+2020 Cristalium Studio
