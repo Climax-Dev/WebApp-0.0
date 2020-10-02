@@ -8,7 +8,7 @@ Version: 0.0
 
 Company: Cristalium Studio
 
-Developpeur: Climax, </Spouffy>²
+Developpeur: Climax, Spouffy
 
 Description: WebApp Navigator is a web browser IN a web browser! It's a web project.
 
